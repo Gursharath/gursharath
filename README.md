@@ -247,46 +247,12 @@ class Gursharath:
 |-------|--------------|--------|
 | 🔶 | **Postman API Fundamentals Student Expert** | Postman |
 
----
-
-## 🌱 Currently Learning
-
-```mermaid
-mindmap
-  root((Gursharath))
-    AI/ML
-      LangGraph
-      Multi-Agent AI
-      Advanced RAG
-      MCP Protocol
-    DevOps
-      Docker
-      Kubernetes
-      AWS
-    Architecture
-      Distributed Systems
-      Production-Scale AI
-      Cloud Deployment
-```
-
----
 
 ## 💬 Ask Me About
 
 > `Flutter` · `Next.js` · `FastAPI` · `Laravel` · `Supabase` · `Groq AI` · `RAG` · `Full Stack Development`
 
----
 
-## 🎯 2025 Goals
-
-- [x] 🚀 Ship 3+ production AI applications
-- [x] 💼 Complete internship at Amrithaa.com
-- [ ] ☁️ Get AWS certified
-- [ ] 🐳 Master Docker + Kubernetes
-- [ ] 🤖 Build a public multi-agent AI framework
-- [ ] ⭐ Hit 100 GitHub stars
-
----
 
 <div align="center">
 
