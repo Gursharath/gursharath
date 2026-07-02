@@ -90,28 +90,24 @@ class Gursharath:
 `Next.js` `TypeScript` `Supabase` `Groq AI` `PostgreSQL`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
+ 
+###🛒 SmartRetail
 
-🛒 SmartRetail
+Agentic AI-powered POS & Retail Intelligence Platform
 
-Agentic AI-Powered Point of Sale & Inventory Intelligence
+🤖 Multi-agent AI system for inventory, sales, forecasting, profitability & restocking
+🛒 Barcode-enabled POS with real-time billing and automatic inventory updates
+📦 Smart inventory management with stock alerts, reorder recommendations & audit logs
+💬 RAG-powered AI Copilot for querying live sales, inventory and business insights
+📊 Executive dashboard with Store Health Score, revenue analytics & AI-generated business reports
+🧾 GST/VAT-compliant PDF invoice generation with printable branded receipts
 
-A modern AI-powered retail management platform that combines a full-featured Point of Sale (POS) system with autonomous AI agents for inventory optimization, sales intelligence, profitability analysis, and demand forecasting.
+Flutter Supabase Groq AI BLoC PostgreSQL
 
-✨ Key Features
-🤖 Multi-agent AI architecture with Inventory, Sales, Forecasting, Profitability, and Restocking agents
-🛒 Barcode-enabled POS with real-time billing and automatic stock deduction
-📦 Intelligent inventory management with low-stock alerts and reorder recommendations
-📊 Executive Business Dashboard featuring revenue analytics, store health score, and KPI monitoring
-📈 AI-powered sales forecasting, profitability insights, and demand prediction
-💬 RAG-based SmartRetail Copilot for querying live inventory, sales, invoices, and business data
-🧾 GST/VAT-compliant PDF invoice generation with branded printable receipts
-📉 Business intelligence including best-selling products, dead stock detection, category analytics, and revenue trends
-🔄 Persistent audit logs for sales, inventory updates, and procurement activities
+</td>
+</tr>
 
-Tech Stack: Flutter Supabase Groq (Llama 3.3) BLoC PostgreSQL REST API AI Agents
 
 </td>
 <td width="50%">
