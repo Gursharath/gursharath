@@ -62,94 +62,125 @@ class Gursharath:
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🤖 [AI Career Copilot](https://github.com/Gursharath/Ai-Careercopilot)
-> *Full-stack career intelligence platform*
+> *Autonomous multi-agent career intelligence platform*
 
-- 🧠 **Multi-agent AI orchestration** with RAG memory
-- 📄 Resume ATS scoring + semantic job matching
-- 🎤 Voice-enabled mock interviews
-- 💻 Live coding interview evaluation
-- 📊 GitHub analytics + personalised roadmaps
+- 🧠 Multi-agent AI orchestration (Planner → Executors → Synthesizer)
+- 📄 ATS resume analysis with strengths & skill-gap detection
+- 🎤 Voice-enabled AI mock interviews with detailed feedback
+- 💻 Live coding interview arena with complexity evaluation
+- 🛣️ Personalized month-by-month career roadmap generation
+- 📊 GitHub profile analytics & career growth dashboard
 
-`Next.js` `FastAPI` `Groq AI` `Scikit-Learn` `Supabase`
+**Tech Stack**
 
-</td>
-<td width="50%">
-
-### 💰 [AI Expense Tracker](https://github.com/Gursharath/Ai-Expence-Tracker)
-> *Intelligent fintech web app*
-
-- 🤑 AI financial coach + smart goal planner
-- 🎙️ Voice assistant for expense input
-- 📸 OCR receipt scanning
-- 📅 Calendar-based tracking + PDF export
-- 📈 AI-generated monthly reports
-
-`Next.js` `TypeScript` `Supabase` `Groq AI` `PostgreSQL`
+`Next.js` `FastAPI` `Supabase` `Groq AI` `Python` `Scikit-Learn`
 
 </td>
-<td width="50%">
- 
-###🛒 SmartRetail
 
-Agentic AI-powered POS & Retail Intelligence Platform
+<td width="50%" valign="top">
 
-🤖 Multi-agent AI system for inventory, sales, forecasting, profitability & restocking
-🛒 Barcode-enabled POS with real-time billing and automatic inventory updates
-📦 Smart inventory management with stock alerts, reorder recommendations & audit logs
-💬 RAG-powered AI Copilot for querying live sales, inventory and business insights
-📊 Executive dashboard with Store Health Score, revenue analytics & AI-generated business reports
-🧾 GST/VAT-compliant PDF invoice generation with printable branded receipts
+### 💰 [SmartExpense AI](https://github.com/Gursharath/Ai-Expence-Tracker)
+> *Agentic AI-powered personal finance platform*
 
-Flutter Supabase Groq AI BLoC PostgreSQL
+- 🤖 Multi-agent financial intelligence system
+- 📈 AI spending insights, forecasting & subscription detection
+- 📸 OCR receipt scanner with automatic expense extraction
+- 🎯 Smart savings goals with AI coaching & milestone tracking
+- 🎙️ Voice-powered expense management assistant
+- 📄 AI-generated financial reports with PDF export
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Groq AI`
 
 </td>
+
 </tr>
 
-
-</td>
-<td width="50%">
-
-### 📊 [AI Data Analyst](https://github.com/Gursharath/Ai-Dataanalyst)
-> *Conversational data analysis platform*
-
-- 💬 Natural language → data queries
-- 📉 Auto-visualization generation
-- 🔍 Smart pattern detection
-- 📤 Export & report generation
-
-`TypeScript` `Next.js` `Groq AI`
-
-</td>
-</tr>
 <tr>
-<td width="50%">
 
-### 📚 [AI Learning App](https://github.com/Gursharath/Ai-learningapp)
-> *Personalized AI tutor on mobile*
+<td width="50%" valign="top">
 
-- 🎯 Adaptive learning paths
-- 🤖 AI-powered quiz generation
-- 📱 Clean Flutter UI
+### 🛒 [SmartRetail](https://github.com/Gursharath/Smart-retail)
+> *Agentic AI-powered POS & retail intelligence platform*
 
-`Flutter` `Dart` `Groq AI`
+- 🤖 5-agent AI system for inventory, forecasting & profitability
+- 🛒 Barcode-enabled POS with real-time billing
+- 📦 Intelligent inventory tracking & automated restocking
+- 💬 RAG-powered AI copilot for business queries
+- 📊 Executive dashboard with Store Health Score & AI insights
+- 🧾 GST/VAT-compliant invoice & receipt generation
 
-</td>
-<td width="50%">
+**Tech Stack**
 
-### 📧 [Mailmind AI](https://github.com/Gursharath/Mailmind-AI)
-> *Intelligent email assistant*
-
-- ✍️ Smart email drafting
-- 📬 Inbox intelligence
-- ⚡ AI-powered responses
-
-`Flutter` `Dart` `AI Integration`
+`Flutter` `Supabase` `PostgreSQL` `Groq AI` `BLoC`
 
 </td>
+
+<td width="50%" valign="top">
+
+### 📊 [Vantage Data Analyst](https://github.com/Gursharath/Ai-Dataanalyst)
+> *AI-powered browser-based business intelligence workspace*
+
+- 🤖 ReAct AI analyst with live tool execution
+- 📈 Automatic dashboards & KPI generation
+- 🔮 Forecasting, anomaly detection & statistical analysis
+- 🧹 AI-assisted data cleaning with version history
+- 📋 In-browser SQL analytics (offline-first)
+- 📄 Executive reports with PDF & Word export
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Groq AI` `AlaSQL`
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📧 [MailMind AI](https://github.com/Gursharath/Mailmind-AI)
+> *AI chief of staff for Gmail*
+
+- 🧠 16-step AI email orchestration pipeline
+- 📬 Executive inbox summaries with priority ranking
+- 📅 Meeting, deadline & task extraction
+- 💬 AI inbox assistant with contextual chat
+- 📄 Smart PDF report generation & sharing
+- 🔒 Secure Gmail OAuth integration with demo mode
+
+**Tech Stack**
+
+`Flutter` `Dart` `Riverpod` `Groq AI` `Gmail API`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 [LearnFlow AI](https://github.com/Gursharath/Ai-learningapp)
+> *Offline-first AI learning companion*
+
+- 🤖 Multi-agent AI tutor with specialized learning agents
+- 📄 RAG document chat with semantic search
+- 🃏 Leitner spaced-repetition flashcards
+- 📝 Adaptive AI quizzes & progress tracking
+- 🎤 Voice-based mock interview simulator
+- 📅 AI study planner with Pomodoro integration
+
+**Tech Stack**
+
+`Flutter` `Supabase` `Groq AI` `pgvector`
+
+</td>
+
+</tr>
+
 </table>
 
 ---
