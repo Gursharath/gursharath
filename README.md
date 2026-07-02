@@ -94,16 +94,24 @@ class Gursharath:
 <tr>
 <td width="50%">
 
-### 🛒 [Smart Retail](https://github.com/Gursharath/Smart-retail)
-> *Barcode billing & inventory management*
+🛒 SmartRetail
 
-- 📱 Flutter mobile app with barcode scanning
-- 🏪 Real-time inventory management
-- 🧾 Automated bill & invoice generation
-- 📉 Low-stock alerts + analytics
-- 🔗 Laravel REST backend
+Agentic AI-Powered Point of Sale & Inventory Intelligence
 
-`Flutter` `Laravel` `MySQL` `PHP` `XAMPP`
+A modern AI-powered retail management platform that combines a full-featured Point of Sale (POS) system with autonomous AI agents for inventory optimization, sales intelligence, profitability analysis, and demand forecasting.
+
+✨ Key Features
+🤖 Multi-agent AI architecture with Inventory, Sales, Forecasting, Profitability, and Restocking agents
+🛒 Barcode-enabled POS with real-time billing and automatic stock deduction
+📦 Intelligent inventory management with low-stock alerts and reorder recommendations
+📊 Executive Business Dashboard featuring revenue analytics, store health score, and KPI monitoring
+📈 AI-powered sales forecasting, profitability insights, and demand prediction
+💬 RAG-based SmartRetail Copilot for querying live inventory, sales, invoices, and business data
+🧾 GST/VAT-compliant PDF invoice generation with branded printable receipts
+📉 Business intelligence including best-selling products, dead stock detection, category analytics, and revenue trends
+🔄 Persistent audit logs for sales, inventory updates, and procurement activities
+
+Tech Stack: Flutter Supabase Groq (Llama 3.3) BLoC PostgreSQL REST API AI Agents
 
 </td>
 <td width="50%">
